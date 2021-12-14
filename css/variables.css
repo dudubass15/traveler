@@ -1,0 +1,54 @@
+:root {
+    --bg-background: #DDE0E2;
+    --bg-cinza: #DDE8F0;
+    --bg-cinza-hover: #d0dee7;
+    --bg-cinza-white: #6293C5;
+    --bg-verde-dark: #141A14;
+    --bg-azul: #1654B1;
+    --bg-verde-cana-dark: #334E46;
+    --bg-red: #DD2A10;
+    --bg-white: #FFFFFF;
+    --bg-white-cinza: #F5F8FA;
+    --bg-orange: #F25D28;
+    --bg-orange-hover: #e45825;
+    
+    --color-white: #FFFFFF;
+    --color-marron: #DDE0E2;
+    --color-marron-2: #a3a3a3;
+    --color-orange: #F25D28;
+    --color-blue: #236692;
+    --color-verde-dark: #123952;
+    --color-azul: #1654B1;
+    --color-cinza: #617480;
+
+    --ft-family-barlow: 'Barlow Semi Condensed', sans-serif;
+    --ft-family-roboto: 'Roboto', sans-serif;
+    --ft-family-nunito: 'Nunito Sans', sans-serif;
+
+    --ft-weight-barlow-500: 500;
+    --ft-weight-barlow-600: 600;
+    --ft-weight-barlow-700: 700;
+
+    --ft-weight-roboto-300: 300;
+    --ft-weight-roboto-400: 400;
+    --ft-weight-roboto-500: 500;
+    --ft-weight-roboto-700: 700;
+
+    --ft-weight-nunito-200: 200;
+    --ft-weight-nunito-300: 300;
+    --ft-weight-nunito-400: 400;
+
+    --mixin-desktop-2800: 2800px;
+    --mixin-desktop-2400: 2400px;
+    --mixin-desktop-1800: 1800px;
+    --mixin-desktop-1600: 1600px;
+    --mixin-desktop-1220: 1220px;
+    --mixin-desktop-1200: 1200px;
+    --mixin-desktop-1024: 1024px;
+    
+    --mixin-tablet-980: 980px;
+    --mixin-tablet-720: 720px;
+    --mixin-mobile-440: 440px;
+    --mixin-mobile-325: 325px;
+    --mixin-mobile-320: 320px;
+}

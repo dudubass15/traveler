@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+a, button {
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+p {
+    margin-bottom: 0px;
+}
